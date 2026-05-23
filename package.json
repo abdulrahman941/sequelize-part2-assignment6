@@ -1,0 +1,17 @@
+{
+  "name": "sequelize-part1-assignment6",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "",
+  "type": "module",
+  "main": "src/main.js",
+  "scripts": {
+    "start:dev":"node --watch src/main.js"
+  },
+  "dependencies": {
+    "express": "^5.2.1",
+    "mysql2": "^3.22.3",
+    "sequelize": "^6.37.8"
+  }
+}
